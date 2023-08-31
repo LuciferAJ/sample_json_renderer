@@ -1,0 +1,141 @@
+{
+    "app": {
+        "theme": "dark"
+    },
+    "home_page": {
+        "widgets": [
+            {
+                "type": "heading",
+                "title": "Tasty Recipes"
+            },
+            {
+                "type": "spacer",
+                "height": 10,
+                "width": 20
+            },
+            {
+                "type": "sub_heading",
+                "title": "Delicious food at home!"
+            },
+            {
+                "type": "spacer",
+                "height": 30,
+                "width": 20
+            },
+            {
+                "type": "horizontal_list",
+                "title": null,
+                "spacing": 20,
+                "items": [
+                    {
+                        "type": "box_item",
+                        "text": "Japenese",
+                        "image": "https://drive.google.com/uc?export=view&id=1En_qH6rt20ZKiczZf5hSf2eGfQ-qtJiG"
+                    },
+                    {
+                        "type": "box_item",
+                        "text": "Italian",
+                        "image": "https://drive.google.com/uc?export=view&id=17QkZ75sxkg6n4uv-GlKtrHH0BHmRQm4b"
+                    },
+                    {
+                        "type": "box_item",
+                        "text": "Thai",
+                        "image": "https://drive.google.com/uc?export=view&id=1qscmhKpkahK3965Wv-gGrFTET3zvJbgb"
+                    },
+                    {
+                        "type": "box_item",
+                        "text": "Indian",
+                        "image": "https://drive.google.com/uc?export=view&id=1N1x4UKv_AT1LQXM_03kCrxDifrnPxwpe"
+                    },
+                    {
+                        "type": "box_item",
+                        "text": "Mexican",
+                        "image": "https://drive.google.com/uc?export=view&id=1nDt53ngtvEdFmpXQsgQan_Z6ByBrA1Us"
+                    },
+                    {
+                        "type": "box_item",
+                        "text": "American",
+                        "image": "https://drive.google.com/uc?export=view&id=1ogl6cyp2R66BsUaPDc1hmlnOXivHZcDM"
+                    }
+                ]
+            },
+            {
+                "type": "spacer",
+                "height": 10,
+                "width": 20
+            },
+            {
+                "type": "banner_list",
+                "title": null,
+                "items": [
+                    {
+                        "type": "banner",
+                        "image": "https://drive.google.com/uc?export=view&id=1cA0fBTwOq4JjNH6AoCCfR5YWKBiYNkd7",
+                        "title": "Easy donut\ntrifle recipe",
+                        "sub_heading": "How to make",
+                        "caption": "15 mins",
+                        "banner_radius": 30,
+                        "banner_content_padding": 20.0,
+                        "show_icon": true
+                    },
+                    {
+                        "type": "banner",
+                        "image": "https://drive.google.com/uc?export=view&id=1Ef5tyVbXOIwBmQLxPlnGbf2OHO9OizH7",
+                        "title": "Creamy, and rich\nShahi Paneer",
+                        "sub_heading": "How to make",
+                        "caption": "40 mins",
+                        "banner_radius": 30,
+                        "banner_content_padding": 20.0,
+                        "show_icon": true
+                    },
+                    {
+                        "type": "banner",
+                        "color": "26546e",
+                        "title": "Cooking Passion\nrecipe",
+                        "sub_heading": "Read",
+                        "caption": "10 mins",
+                        "banner_radius": 30,
+                        "banner_content_padding": 20.0,
+                        "show_icon": false
+                    }
+                ]
+            },
+            {
+                "type": "spacer",
+                "height": 30,
+                "width": 20
+            },
+            {
+                "type": "horizontal_list",
+                "title": "Collections",
+                "items": [
+                    {
+                        "type": "circular_item",
+                        "text": "Breakfast",
+                        "image": "https://drive.google.com/uc?export=view&id=1KgMGDoI9_4kmY0npdimjdrDwntOhYBAL"
+                    },
+                    {
+                        "type": "circular_item",
+                        "text": "Meat",
+                        "image": "https://drive.google.com/uc?export=view&id=1hl4vFhiJ8DBvgxNbmEnm0x74e98yXFVH"
+                    },
+                    {
+                        "type": "circular_item",
+                        "text": "Vegan",
+                        "image": "https://drive.google.com/uc?export=view&id=1-_xRja8hgTh5sTnV013tu6ECtIIcxufu"
+                    },
+                    {
+                        "type": "circular_item",
+                        "text": "Fish",
+                        "image": "https://drive.google.com/uc?export=view&id=1PoLNPY6mWuT0XIhu20IG2MV_ZIiYMwga"
+                    }
+                ]
+            },
+            {
+                "type": "spacer",
+                "height": 20,
+                "width": 20
+            }
+        ]
+    }
+}
